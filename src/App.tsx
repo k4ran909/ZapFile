@@ -26,7 +26,7 @@ function Page() {
     <div className="flex flex-col min-h-screen">
       <div className="container flex-grow mx-auto px-4 mt-20">
         <div className='flex flex-wrap items-center text-4xl mb-2'>
-          <h1>Katana</h1>
+          <h1>ZapFile</h1>
           <span>&nbsp;—&nbsp;</span>
           <h2>a File sender</h2>
         </div>
@@ -43,7 +43,7 @@ function Page() {
         <GithubIcon></GithubIcon>
         <div>
           <span>Check it out at&nbsp;</span>
-          <a href="https://github.com/Sekky61/Katana" className='link'>Github</a>
+          <a href="https://github.com/k4ran909/ZapFile" className='link'>Github</a>
         </div>
       </div>
     </div>
