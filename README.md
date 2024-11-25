@@ -1,7 +1,7 @@
 # ZapFile - P2P file transfer in browser
 
 <p align="center">
-  <img src='https://github.com/k4ran909/ZapFile/assets/' width='700'>
+  <img src='img URL' width='700'>
 </p>
 
 P2P file transfer using [peerjs](https://peerjs.com/) library. [Try it now!](https://k4ran909.github.io/ZapFile/)
